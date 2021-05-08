@@ -97,3 +97,58 @@ En cuanto al **control** se encarga de:
 - Valuación de inventarios
 - Contización de precios
   
+**Anatomía del costo de un producto**:
+
+Clasificación de costos:
+- **Costos Directos**
+    - Materia prima
+    - Mano de obra directa
+- **Costos Indirectos**
+    - de operación
+    - de administración
+    - de comercialización 
+
+**Costos operativos** = costos de materia prima + costo de mano de obra directa + costos de operación
+**Costos de producción** = costos operativos + costo de administración
+**Costos totales** = cotos de producción + costos de comercialización
+
+Precio de venta = **Costos totales** + beneficio que se quiere obtener
+
+**Presupuesto**: puede definirse como la *manifestación formal de los planes y objetivos* de la dirección de la empresa, que *abarca todas las fases operativas* para un periodo determinado (normalmente un año), *expresado en términos monetarios*. 
+
+**Control presupuestario**: es el análisis de los devíos entre: lo esperado, prespuestado o proyectado y la realidad. Es realizado por sectores reponsables, proporcionando realimantación al sistema para la toma de medidas ocrrectivas y para rearmar el presupuesto. 
+
+> Es útil pero dificil de aplicar. 
+
+**Desventajas del control presupuestario**:
+- es trabajoso
+- es una programación 
+- necesita método
+- las personas no quieren ser controladas
+
+## Abastecimiento y compras:
+
+Se encarga de: 
+- Adiquisiciones: individuales, cotizaciones, evaluación  selección de proveedores. 
+- Seguimiento y activación de las compras: seguimiento de las compras y tiempo y lugar de recepción. 
+- Registro y archivo de compras: archivo de catálogos y cotizaciones. Historial de proveedores.
+- Venta de materiales recuperados: compradores de subproductos. 
+
+- Si además de compras agregamos la gestión del depósito de materiales, tenemos: **suministros**
+
+**El problema del suministro:** abastecer el material necesario en *cantidad, lugar y calidad* necesarios en el momento oportuno a un precio justo. 
+
+**Tipos de stock:**
+- Stock normal
+- Stock en tránsito
+- Stock de seguridad
+- Stock de oportunidad
+- Stoc de sobrantes y recuperación 
+
+**¿Para qué mantener inventarios?**
+- Mantener la independencia de las operaciones. 
+- Satisfacer las variaciones de las demandas de productos
+- Permitir la flexibilidad en los programas de producción
+- Margen de seguridad en la variación de entrega de materias primas
+- Aprovechar el tamaño económico del pedido
+
