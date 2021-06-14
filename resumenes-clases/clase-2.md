@@ -1,9 +1,7 @@
 # Áreas de actividad con funciones y subfunciones
 
 Áreas de actividad (según ACME):
- - Invetigación y desarrollo
- - Administración de personal 
- - Finanzas y control
+
  - Producción
  - Secretaría y legales
  - Relaciones externas
@@ -95,7 +93,7 @@ En cuanto al **control** se encarga de:
   $RENTABILIDAD = \frac{ganancia}{capital\_invertido}$
 
 - Valuación de inventarios
-- Contización de precios
+- Cotización de precios
   
 **Anatomía del costo de un producto**:
 
@@ -116,7 +114,7 @@ Precio de venta = **Costos totales** + beneficio que se quiere obtener
 
 **Presupuesto**: puede definirse como la *manifestación formal de los planes y objetivos* de la dirección de la empresa, que *abarca todas las fases operativas* para un periodo determinado (normalmente un año), *expresado en términos monetarios*. 
 
-**Control presupuestario**: es el análisis de los devíos entre: lo esperado, prespuestado o proyectado y la realidad. Es realizado por sectores reponsables, proporcionando realimantación al sistema para la toma de medidas ocrrectivas y para rearmar el presupuesto. 
+**Control presupuestario**: es el análisis de los devíos entre: lo esperado, prespuestado o proyectado y la realidad. Es realizado por sectores reponsables, proporcionando realimantación al sistema para la toma de medidas correctivas y para rearmar el presupuesto. 
 
 > Es útil pero dificil de aplicar. 
 
