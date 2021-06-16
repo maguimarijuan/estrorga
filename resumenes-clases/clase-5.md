@@ -206,7 +206,7 @@ d) **Desentralización vertical y horizontal selectiva**: en dimensión vertical
 f) **Descentralización vertical y horizontal**: el poder de decisión centrado en el núcleo operativo. 
 
 
-## Configuraciones estructurales
+## Configuraciónes estructurales
 
 ### Estructura simple
 
@@ -279,3 +279,47 @@ f) **Descentralización vertical y horizontal**: el poder de decisión centrado 
 - de moda
   
 
+#### La adhocracia operativa
+
+Innova y resuelve problemas directamente en nombre de sus clientes. 
+
+Frente a un problema de un cliente realiza un esfuerzo creativo para encontrar una solución orginal. 
+
+Descentraliza el poder a sus especialistas altamente capacitados. 
+
+Los especialistas interactuan informalmente por ajuste mutuo en grupos de proyecto. 
+
+Rasgo clave: sus trabajos administrativos y opertivo tienden a fusionarse en un sólo esfuerzo. 
+
+Difícil diferencial el planeamiento y diseño del trabajo en ejecución. 
+
+#### La adhocracia administrativa
+
+Hace una clara distinción entre su componente administrativo y su núcleo operativo. 
+
+Núcleo operativo truncado separado del resto de la organización. 
+
+Puedo dejar de lado el núcleo operativo contratando el de otras organizaciones. 
+
+Ej.: Proyecto apolo de la NASA se concentra en el trabajo de desarrollo y para producción contrata firmas manufactureras independientes. 
+
+## Requisitos de diseño
+
+**Efectividad** o eficacia: es hacer las cosas que se deben hacer -enfoque al logro de objetivos. 
+
+**Eficiencia**: es hacer las cosas bien- enfoque en el uso de recursos. 
+
+**Calidad**: grado en el que un conjunto de características inherentes cumple con las necesidades o expectativas establecidad. 
+
+**Creación de valor**: todas las operaciones que al realizarse aumentan el valor del producto o servicio desde la perspectiva del cliente. 
+
+## El diseño como configuración
+
+
+| Configuración estructural 	| Mecanismo coordinador principal        	| Parte clave de la organizacion 	| Tipo de descentralización               	| Tendencia a     	|
+|---------------------------	|----------------------------------------	|--------------------------------	|-----------------------------------------	|-----------------	|
+| Estructura simple         	| Supervisión directa                    	| Cumbre estrategica             	| Centralizacion vertical y horizontal    	| centralizar     	|
+| Burocracia mecanica       	| Estandarización de procesos de trabajo 	| Tecnoestructura                	| Descentralización horizontal limitada   	| estandarizar    	|
+| Burocracia profesional    	| Estandarización de destrezas            	| Nucleo operativo               	| Descentralizacion horizontal y vertical 	| profecionalizar 	|
+| Forma divisional          	| Estandarización de producciones        	| Línea media                    	| Desentraliacion vertical limitada       	| balcanizar      	|
+| Adhocracia                	| Ajuste medio                           	| Staff de apoyo                 	| Descentralizacion selectiva             	| para colaborar  	|
